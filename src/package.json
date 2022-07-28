@@ -1,0 +1,33 @@
+{
+  "name": "ngx-keycloak",
+  "version": "0.0.3",
+  "description": "Keycloak for Angular applications based on keycloak-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonnytoshen/ngx-keycloak.git"
+  },
+  "author": {
+    "name": "Jonny",
+    "email": "jonnytoshen@gmail.com"
+  },
+  "keywords": [
+    "OAuth2",
+    "keycloak",
+    "angular",
+    "ngx-keycloak"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonnytoshen/ngx-keycloak/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0",
+    "@angular/router": "^13.2.0",
+    "keycloak-js": "^18.0.1",
+    "rxjs": "~7.5.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
